@@ -1,0 +1,49 @@
+Manages test data and environments; supports Quality Management Data Analysts in creating test data management approaches in support of business domain
+Performing system and environment management tests to prove system and infrastructure functionality and performance
+Manages the organization’s configuration management system and champions the business value and company policies for the configuration management system
+Adhere to the Bank's Service Management guidelines (ITIL) and participate and provide recommendations in process, service and system improvements
+Manage multiple development environments including, Development Testing, System Integration Test, Customer Test, Break fix and User Acceptance Test
+Provide support and escalation point for any environment issues from development, QA and support teams
+The design and management of our test and development environments are optimized for use,
+
+
+Working with various cross-functional stakeholders (e.g. development, QA, product management, middleware ops)
+Be a role model to subordinate employees, be a workforce motivator, and be a provider of constructive criticism
+Builds relationships with key stakeholders in the Application Development teams and Release Management teams
+Establish and produce management reports to show the utilisation and status of all environments
+Communicating effectively with project teams, resource management teams, IT management and executive groups and all project stakeholders
+Work with the existing Test Environment, Release, Development and Infrastructure teams to
+Manage and control schedules of projects that proceed through test network
+
+
+
+Work on process automation to improve the efficiency of both environment management and release management process
+Work closely with business analyst, quality assurance, and project management resources throughout delivery of solutions
+Manage project book of work. Projects range from adoption of new technologies to managing DR tests and patching cycles
+Manage, in conjunction with project managers, the release of code from UAT to Production
+Manage the code release of components from Development to UAT
+Management of escalation issues within the team and wider department, and responsible for preventing re-occurring incidents
+Proactively research and develop new technologies, services, solutions, etc
+
+
+Works closely with the Information Architect to create logical data model
+Creates technical specifications and submits for review by AD manager in HK
+Providing technical support for Quality Assurance (QA) Testing
+Providing technical support for User Acceptance Testing
+Providing technical support for Production Implementations, and post-implementation support during implementation warranty period
+Develops application code unit and integration testing strategies
+Creation/ update of Detailed Design Specifications, Program Specifications, and program Version Control documentation
+
+
+
+Google : serach with "Infrastructure testing resumes"
+
+Excellent Infrastructure Test Lead Profile Dallas, Texas:
+https://www.hireitpeople.com/resume-database/82-quality-assurance-resumes/54281-infrastructure-test-lead-resume-profile-dallas-tx
+
+
+https://www.mintresume.com/resumes/infrastructure-automation-engineer
+
+
+
+
