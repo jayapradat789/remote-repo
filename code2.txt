@@ -1,0 +1,7 @@
+SUN
+MON
+TUES
+WED
+THU
+FRI
+SAT
